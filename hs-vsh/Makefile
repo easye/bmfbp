@@ -1,5 +1,6 @@
 hs_vsh_drawio_to_fb:
-	stack install
+#  For the moment, push the stack installation to the ultimate containing build
+#	stack install
 	cp ~/.local/bin/hs_vsh_drawio_to_fb ~/bin
 
 clean:
